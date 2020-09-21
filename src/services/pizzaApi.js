@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'https://lit-waters-38927.herokuapp.com/';
+const baseUrl = 'https://lit-waters-38927.herokuapp.com';
 
 class PizzaApi {
     getAllPizzas = () => {
